@@ -3,7 +3,7 @@
 # Author: Lis
 from fabric.api import *
 
-env.hosts = ['222.255.239.65']
+env.hosts = ['web_server']
 env.user = 'root'
 env.port = 7878
 #env.use_ssh_config = True
