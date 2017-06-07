@@ -35,5 +35,7 @@ server_ssl.sendmail(FROM, TO, message)
 server_ssl.close()
 print 'successfully sent the mail'
 '''
+'''
 check domain - return 200
 if fail send mail
+'''
